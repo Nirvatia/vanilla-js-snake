@@ -2,7 +2,7 @@
 
 ## Deploy
 
-https://vizereth.github.io/vanilla-js-snake
+https://nirvatia.github.io/vanilla-js-snake
 
 ## Project setup
 ```
